@@ -55,7 +55,7 @@ function PopularServices() {
                                     items.map((item, i) => {
                                         return (
                                             <div data-aos="fade-up" key={i} className=" max-w-full h-full ">
-                                                <div className=" w-full h-full flex justify-center translate-x-[-15px]">
+                                                <div className=" w-full h-full flex justify-center">
                                                     <div className=" w-[95%] h-full bg-white rounded-lg overflow-hidden">
                                                         <div className=" w-full h-[200px]">
                                                             <img className=" w-full h-full" src={item.img} alt="" />
