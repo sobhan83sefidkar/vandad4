@@ -68,7 +68,7 @@ function Equipments() {
                                 array.map((item, i) => {
                                     return (
                                         <div data-aos="fade-up" key={i} className=' w-full h-full'>
-                                            <div className=' max-w-full h-[300px] rounded-md flex justify-center translate-x-[-15px]'>
+                                            <div className=' max-w-full h-[300px] rounded-md flex justify-center'>
                                                 <div className=' w-[95%] h-full bg-white flex gap-10 relative overflow-hidden rounded-lg'>
                                                     <div className=' h-5 w-72 absolute right-[-100px] top-10 rotate-45 bg-yellow-300 text-xs text-center'>
                                                         پیشنهاد ویژه
