@@ -71,7 +71,7 @@ function Costumer() {
                                 costumers.map((item, i) => {
                                     return (
                                         <div data-aos="fade-up" key={i} className=" w-full h-full">
-                                            <div className=' w-full h-full flex justify-center translate-x-[-15px]'>
+                                            <div className=' w-full h-full flex justify-center'>
                                                 <div className=' w-[95%] bg-white p-3 rounded-lg'>
                                                     <div className=" w-full flex justify-center">
                                                         <img className=' w-32' src={item.img} alt="" />
