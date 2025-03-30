@@ -48,7 +48,7 @@ function Header() {
                                 arr.map((item, i) => {
                                     return (
                                         <div key={i} className=' w-full h-full'>
-                                            <div className=' w-full h-full flex justify-center items-center translate-y-[-15px]'>
+                                            <div className=' w-full h-full flex justify-center items-center'>
                                                 <div className=' w-full h-full flex justify-center'>
                                                     <img className=' w-[85%]' src={item} alt="" />
                                                 </div>
