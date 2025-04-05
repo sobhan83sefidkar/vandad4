@@ -92,12 +92,6 @@ function Navbar({ setOpenMenu }) {
                         </ul>
 
                     </div>
-                    <div className=" xlmax:hidden  absolute w-24 z-10 top-[40%] left-[50%] translate-x-[-50%]">
-                        <img src="../../images/vandad.webp" alt="" />
-                    </div>
-                    <div className=" xlmax:hidden  absolute left-[50%] translate-x-[-50%] top-[99%] w-40">
-                        <img src="../../images/half-circle.webp" alt="" />
-                    </div>
                     {
                         login &&
                         <div className=" flex gap-2">
