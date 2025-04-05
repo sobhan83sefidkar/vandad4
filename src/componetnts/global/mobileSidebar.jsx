@@ -31,8 +31,8 @@ function MobileSidebar({ setOpenMenu, openMenu }) {
                             مقاله
                         </Link>
                     </li>
-                    <li className=" cursor-pointer w-full py-4 px-2 border-b border-gray-400">
-                        <a href="https://s6.uupload.ir/filelink/iCJ5o0DjNwqU_840b8f4d18/رزومه_فناوری_اطلاعات_ونداد_نوین_f9eo.pdf" target="_blank" rel="noopener noreferrer">دانلود رزومه</a>
+                    <li className=" cursor-pointer">
+                        <a href="https://github.com/sobhansefidkar/vandad-images/raw/main/%D8%B1%D8%B2%D9%88%D9%85%D9%87_%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88%D9%86%D8%AF%D8%A7%D8%AF_%D9%86%D9%88%DB%8C%D9%86_f9eo%20(6).pdf">دانلودرزومه</a>
                     </li>
                     <li className=" cursor-pointer w-full py-4 px-2 border-b border-gray-400">
                         <Link href={"/aboutus"} onClick={() => setOpenMenu(false)}>
