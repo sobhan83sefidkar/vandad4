@@ -3,9 +3,9 @@ import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 
 function Equipments() {
-    const array = [
+     const array = [
         {
-            img: "../../images/equipments/test.webp",
+            img: "../../images/equipments/monitor.webp",
             title: "تجهیزات کامپیوتری",
             lists: [
                 "انواع کیس",
@@ -15,7 +15,7 @@ function Equipments() {
             ]
         },
         {
-            img: "../../images/equipments/test.webp",
+            img: "../../images/equipments/fix.webp",
             title: "تعمیرات تخصصی",
             lists: [
                 "تعمیر حرفه ای کیس",
@@ -24,7 +24,7 @@ function Equipments() {
             ]
         },
         {
-            img: "../../images/equipments/test.webp",
+            img: "../../images/equipments/printer.webp",
             title: "خدمات پرینتر",
             lists: [
                 "تعمییر پرینتر در محل",
